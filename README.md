@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Souvik Chandra</h1>
-<h3 align="center">A passionate frontend developer & a competitive coder :)</h3>
+<h3 align="center">A competitive coder & a react developer:)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvikchan&label=Profile%20views&color=0e75b6&style=flat" alt="souvikchan" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/souvik-chandra-085a83214/**
 
-- ⚡ Fun fact **I spent my 10 hours everyday in front of my laptop**
+- ⚡ Fun fact **I love coding more than my girlfriend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
