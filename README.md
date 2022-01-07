@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/souvik-chandra-085a83214/**
 
-- ⚡ Fun fact **I spent my 10 hours everyday in front of my laptop**
+- ⚡ Fun fact **I love coding more than my girlfriend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
