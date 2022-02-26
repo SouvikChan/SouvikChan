@@ -14,6 +14,7 @@
 - ⚡ Fun fact **I love coding more than my girlfriend**
 
 <h3 align="left">Connect with me:</h3>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fn6pdh5h4kr6l2r6jf76xnt47&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <p align="left">
 <a href="https://twitter.com/33_souvik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="33_souvik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/souvik chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvik chandra" height="30" width="40" /></a>
