@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SouvikChan](https://github.com/SouvikChan)
 
-- 📫 How to reach me **https://www.linkedin.com/in/souvik-chandra-085a83214/**
+- 📫 How to reach me **https://linktr.ee/SouvikCh**
 
 - ⚡ Fun fact **I love coding more than my girlfriend**
 
