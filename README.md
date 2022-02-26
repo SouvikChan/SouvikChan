@@ -10,8 +10,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/SouvikChan](https://github.com/SouvikChan)
 
 - 📫 How to reach me **https://www.linkedin.com/in/souvik-chandra-085a83214/**
-- Vibing In: [[https://spotify-github-profile.vercel.app/api/view.svg?uid=fn6pdh5h4kr6l2r6jf76xnt47&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=fn6pdh5h4kr6l2r6jf76xnt47&cover_image=true&theme=default)]]
-
+- Vibing In: https://spotify-github-profile.vercel.app/api/view.svg?uid=fn6pdh5h4kr6l2r6jf76xnt47&cover_image=true&theme=default 
+-
 - ⚡ Fun fact **I love coding more than my girlfriend**
 
 <h3 align="left">Connect with me:</h3>
