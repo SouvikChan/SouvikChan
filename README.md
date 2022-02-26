@@ -2,7 +2,6 @@
 <h3 align="center">A competitive coder & React Developer :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvikchan&label=Profile%20views&color=0e75b6&style=flat" alt="souvikchan" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan112&label=Profile%20views&color=0e75b6&style=flat" alt="sayan112" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/33_souvik" target="blank"><img src="https://img.shields.io/twitter/follow/33_souvik?logo=twitter&style=for-the-badge" alt="33_souvik" /></a> </p>
