@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/33_souvik" target="blank"><img src="https://img.shields.io/twitter/follow/33_souvik?logo=twitter&style=for-the-badge" alt="33_souvik" /></a> </p>
 
-- 🌱 I’m currently learning **Java script, React and DSA**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SouvikChan](https://github.com/SouvikChan)
+- 🌱 I’m currently learning **MongoDB and focursing on DSA**
 
 - 📫 How to reach me **https://linktr.ee/SouvikCh**
 
