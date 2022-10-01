@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **MongoDB and focursing on DSA**
 
-- 📫 How to reach me **https://linktr.ee/SouvikCh**
-
 - ⚡ Fun fact **I code until I am tired**
 
 <h3 align="left">Connect with me:</h3>
