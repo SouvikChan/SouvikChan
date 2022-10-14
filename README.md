@@ -18,9 +18,6 @@
 <a href="https://www.codechef.com/users/souvikch30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="souvikch30" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/souvik chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="souvik chandra" height="30" width="40" /></a>
 </p>
- 🎶'Vibin' to🎧 :
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fn6pdh5h4kr6l2r6jf76xnt47&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
