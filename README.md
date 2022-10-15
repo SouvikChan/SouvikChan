@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MongoDB and focursing on DSA**
 
-- ⚡ Fun fact **I code until I am tired**
+- ⚡ Fact **Eat+Gym Sleep Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
