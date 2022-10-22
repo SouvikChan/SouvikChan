@@ -77,7 +77,7 @@
 
 </td></tr></table>  
 
-<br/>  
+<br//>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvikchan&show_icons=true&locale=en&layout=compact" alt="souvikchan" /></p>
 
